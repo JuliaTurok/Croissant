@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background: #F8E9A6;
+}
+.text, img{
+    margin-bottom: 30px;
+}
+a{
+    color: green;
+    margin-right: 25px;
+}
+img{
+    margin-top: 10px;
+}
+.mail{
+    color: blue;
+    margin:0;
+}
